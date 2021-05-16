@@ -1,4 +1,4 @@
-# Watermarking Python script
+# Watermarking Tool
 
 ## Prerequisites:
 
