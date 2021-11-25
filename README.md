@@ -1,6 +1,6 @@
 # Watermarking Tool
 
-add Watermarking to images / pdf  ... 
+add Watermark to images / pdf  ... 
 ## Prerequisites:
 
 [1]  [ImageMagick](http://ImageMagick.com/)
